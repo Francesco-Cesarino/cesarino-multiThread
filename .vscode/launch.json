@@ -1,0 +1,29 @@
+{
+    // Usare IntelliSense per informazioni sui possibili attributi.
+    // Al passaggio del mouse vengono visualizzate le descrizioni degli attributi esistenti.
+    // Per altre informazioni, visitare: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainC",
+            "request": "launch",
+            "mainClass": "MainC",
+            "projectName": "cesarino-multiThread"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainS",
+            "request": "launch",
+            "mainClass": "MainS",
+            "projectName": "cesarino-multiThread"
+        }
+    ]
+}
